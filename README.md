@@ -28,5 +28,5 @@ The project structure is organized as follows:
 
 - `london-bike-sharing-dataset.zip`: Contains the preprocessed dataset gathered from Kaggle API.
 - `London_bike_rides_data_cleaning.ipynb`: Includes Jupyter Notebook file for data preprocessing and analysis.
--  `https://public.tableau.com/app/profile/nurdan.oktan/viz/LondonBikeRidesProject_16926511039280/Dashboard1`: This is the link to go to interactive dashboard created using Tableau.
+-  **[Explore the Dashboard](https://public.tableau.com/app/profile/nurdan.oktan/viz/LondonBikeRidesProject_16926511039280/Dashboard1)**: This is the link to go to interactive dashboard created using Tableau.
 - `README.md`: This README file.
