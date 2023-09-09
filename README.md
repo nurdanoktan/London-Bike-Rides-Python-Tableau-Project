@@ -1,5 +1,7 @@
 # London-Bike-Rides-Python-Tableau-Project
 
+![image](https://github.com/nurdanoktan/London-Bike-Rides-Python-Tableau-Project/assets/112075689/11601855-3fe2-47d2-8f68-9bf78a7f3d50)
+
 This repository contains Python code and Tableau visualizations for analyzing and visualizing the London bike rides dataset. The dataset is gathered using Kaggle API and preproccesed using Python and Tableau is used to create an interactive dashboard.
 
 ## Data Cleaning
